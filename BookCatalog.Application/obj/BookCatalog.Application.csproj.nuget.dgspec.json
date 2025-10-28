@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/robbiesaakyan/Desktop/UpGaming/BookCatalog/BookCatalog.Application/BookCatalog.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/robbiesaakyan/Desktop/UpGaming/BookCatalog/BookCatalog.Application/BookCatalog.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/robbiesaakyan/Desktop/UpGaming/BookCatalog/BookCatalog.Application/BookCatalog.Application.csproj",
+        "projectName": "BookCatalog.Application",
+        "projectPath": "/Users/robbiesaakyan/Desktop/UpGaming/BookCatalog/BookCatalog.Application/BookCatalog.Application.csproj",
+        "packagesPath": "/Users/robbiesaakyan/.nuget/packages/",
+        "outputPath": "/Users/robbiesaakyan/Desktop/UpGaming/BookCatalog/BookCatalog.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/robbiesaakyan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/robbiesaakyan/Desktop/UpGaming/BookCatalog/BookCatalog.Domain/BookCatalog.Domain.csproj": {
+                "projectPath": "/Users/robbiesaakyan/Desktop/UpGaming/BookCatalog/BookCatalog.Domain/BookCatalog.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/robbiesaakyan/Desktop/UpGaming/BookCatalog/BookCatalog.Domain/BookCatalog.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/robbiesaakyan/Desktop/UpGaming/BookCatalog/BookCatalog.Domain/BookCatalog.Domain.csproj",
+        "projectName": "BookCatalog.Domain",
+        "projectPath": "/Users/robbiesaakyan/Desktop/UpGaming/BookCatalog/BookCatalog.Domain/BookCatalog.Domain.csproj",
+        "packagesPath": "/Users/robbiesaakyan/.nuget/packages/",
+        "outputPath": "/Users/robbiesaakyan/Desktop/UpGaming/BookCatalog/BookCatalog.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/robbiesaakyan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

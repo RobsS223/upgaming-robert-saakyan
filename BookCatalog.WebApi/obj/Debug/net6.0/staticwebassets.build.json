@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "LbcR8MNPfq8to35Ld1TfBUq6kAvG7gIerqvllbpx+0s=",
+  "Source": "BookCatalog.WebApi",
+  "BasePath": "_content/BookCatalog.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,11 @@
+/Users/robbiesaakyan/Desktop/UpGaming/BookCatalog/BookCatalog.Domain/bin/Debug/net6.0/BookCatalog.Domain.deps.json
+/Users/robbiesaakyan/Desktop/UpGaming/BookCatalog/BookCatalog.Domain/bin/Debug/net6.0/BookCatalog.Domain.dll
+/Users/robbiesaakyan/Desktop/UpGaming/BookCatalog/BookCatalog.Domain/bin/Debug/net6.0/BookCatalog.Domain.pdb
+/Users/robbiesaakyan/Desktop/UpGaming/BookCatalog/BookCatalog.Domain/obj/Debug/net6.0/BookCatalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robbiesaakyan/Desktop/UpGaming/BookCatalog/BookCatalog.Domain/obj/Debug/net6.0/BookCatalog.Domain.AssemblyInfoInputs.cache
+/Users/robbiesaakyan/Desktop/UpGaming/BookCatalog/BookCatalog.Domain/obj/Debug/net6.0/BookCatalog.Domain.AssemblyInfo.cs
+/Users/robbiesaakyan/Desktop/UpGaming/BookCatalog/BookCatalog.Domain/obj/Debug/net6.0/BookCatalog.Domain.csproj.CoreCompileInputs.cache
+/Users/robbiesaakyan/Desktop/UpGaming/BookCatalog/BookCatalog.Domain/obj/Debug/net6.0/BookCatalog.Domain.dll
+/Users/robbiesaakyan/Desktop/UpGaming/BookCatalog/BookCatalog.Domain/obj/Debug/net6.0/refint/BookCatalog.Domain.dll
+/Users/robbiesaakyan/Desktop/UpGaming/BookCatalog/BookCatalog.Domain/obj/Debug/net6.0/BookCatalog.Domain.pdb
+/Users/robbiesaakyan/Desktop/UpGaming/BookCatalog/BookCatalog.Domain/obj/Debug/net6.0/ref/BookCatalog.Domain.dll
